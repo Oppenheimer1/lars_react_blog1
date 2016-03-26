@@ -1,5 +1,9 @@
 # gatsby-starter-blog
-Gatsby starter for creating a blog
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+Following the integration steps here: https://github.com/gatsbyjs/gatsby
+After reviewing the code and learning the format, I created three blog posts.
+Follow the steps below, take a look at how this looks
+Run from the command line
+1. npm install -g gatsby
+2. gatsby new gatsby_lars
+3. cd gatsby_lars
+4. gatsby develop (This starts the server at http://localhost:8000/.)
